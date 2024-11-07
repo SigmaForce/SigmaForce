@@ -1,6 +1,6 @@
 ## Leonardo Lucas
 ### Hello, Devs !!!
-⚡Me chamo Leonardo Lucas tenho 25 anos moro em Ponta Porã - MS. Graduado em Sistemas de Informação pela UFMS.
+⚡Me chamo Leonardo Lucas tenho 26 anos moro em Ponta Porã - MS. Graduado em Sistemas de Informação pela UFMS.
 
 🔭 Programador Front-end, com 3 Anos de experiência em ReactJS, e NextJS.
 
